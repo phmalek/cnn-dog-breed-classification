@@ -4,7 +4,7 @@ Design and train a __convolutional neural network__ to analyze images of dogs an
 __Techs:__ 
 - openCV, 
 - transfer learning, 
--VGG-16, 
--ResNet, 
--CNN, 
--batch normalization
+- VGG-16, 
+- ResNet, 
+- CNN, 
+- batch normalization
